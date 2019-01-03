@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94274557906",
+    "firebase_url": "https://neverland-705a7.firebaseio.com",
+    "project_id": "neverland-705a7",
+    "storage_bucket": "neverland-705a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94274557906:android:e90236a2af5804f6",
+        "android_client_info": {
+          "package_name": "neverland.certaindeath.com.neverlandtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94274557906-5ofdjtm1n74dkml8024iou69dtfr9roj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNoUyAWrk8XqLxYFPnvenFu7Oebxhaf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
